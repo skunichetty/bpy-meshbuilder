@@ -10,7 +10,8 @@ Utilities for building Blender meshes programmatically via Python scripting.
 Scientific and mathematical applications of Blender require precise control of mesh generation. Unfortunately the in-built solutions offered by Blender's Python scripting are far from easy to navigate. The goal of this module is to abstract some of the complexity of building meshes away so practitioners can focus on downstream applications easier.
 
 ![Image of a multicolored 3D surface showcasing the capabilities of the `bpy-meshbuilder` library](media/waves.png)
-<sup>Above: $f(x, y) = sin(x)y^2$</sup>
+
+Above: Surface mesh of $f(x, y) = sin(x)y^2$, generated using `bpy-meshbuilder`. 
 
 
 ## Installation
