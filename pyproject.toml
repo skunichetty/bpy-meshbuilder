@@ -10,6 +10,10 @@ description = "Mesh manipulation utilities for Blender Python scripting"
 requires-python = "~=3.11"
 keywords = ["blender", "mesh"]
 dependencies = ["bpy==4.4.0"]
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/skunichetty/bpy-meshbuilder"
 
 
 [tool.setuptools.packages.find]
