@@ -1,0 +1,11 @@
+# Testing files
+*.blend*
+
+# Python build files
+__pycache__
+*.egg-info
+
+# Virtual Environment files
+venv
+env
+.python-version
